@@ -16,7 +16,6 @@ public class CucumberPF {
 	
 	loginpage_PF lgn;
 	
-	
 	Home hm;
 
 	
